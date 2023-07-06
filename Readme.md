@@ -31,4 +31,5 @@ import {Component} from "./Path";
 
 # Reconsiliation Algorithm also known as React Fiber
 
+The algorithm React uses to diff one tree with another to determine which parts need to be changed.
 

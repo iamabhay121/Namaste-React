@@ -3,9 +3,9 @@ const Footer = () => {
     return (
       <div className="footer">
         Created By:
-        <i class="fa-solid fa-heart"></i>
+        <i className="fa-solid fa-heart"></i>
         <p>Abhay Agarwal</p>
-        <i class="fa-solid fa-copyright"></i>2023
+        <i className="fa-solid fa-copyright"></i>2023
         <strong>
           Meal Drop
         </strong>
